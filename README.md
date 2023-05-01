@@ -1,6 +1,13 @@
 # MEV Resources
 Collection of resources on Maximum Extractable Value (MEV)
 
+## Navigation
+- [Articles](#articles)
+- [Podcasts](#podcasts)
+- [Presentations and Panels](#presentations-and-panels)
+- [Dashboards](#dashboards)
+- [Twitter Threads](#twitter-threads)
+- [Other Resources](#other-resources)
 
 ## Articles
 - [MEV and Me](https://research.paradigm.xyz/MEV), 02/21
@@ -13,7 +20,7 @@ Collection of resources on Maximum Extractable Value (MEV)
 - [Flashbots – The Good, Bad and the Ugly of MEV](https://epicenter.tv/episodes/389/), 04/21
 - [Understanding MEV - with Georgios Konstantopoulos, Dan Robinson, and Hasu on Uncommon Core](https://podcasters.spotify.com/pod/show/uncommoncore/episodes/Understanding-MEV---with-Georgios-Konstantopoulos--Dan-Robinson--and-Hasu-ejtp3j), 09/20
 
-## Presentations/Panels
+## Presentations and Panels
 - [MEVconomics Playlist](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7bW0j2dhpnLNiIJIMnPgsD)
 
 ## Dashboards
