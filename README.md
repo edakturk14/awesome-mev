@@ -12,6 +12,7 @@ Collection of resources on Maximum Extractable Value (MEV)
 ## Articles
 - [Hack Analysis: 0xbaDc0dE MEV Bot, September 2022 on Immunefi Blog](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba), 01/23
 - [The Hitchhiker's Guide to Ethereum by Jon Charbonneau](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum#mev-boost), 05/2022
+- [Anatomy of an MEV Strategy: Synthetix by Robert Miller](https://bertcmiller.com/2021/09/05/mev-synthetix.html), 09/21
 - [MEV and Me by Charlie Noyes](https://research.paradigm.xyz/MEV), 02/21
 - [Escaping the Dark Forest by samczsun](https://samczsun.com/escaping-the-dark-forest/), 09/20
 - [Ethereum is a Dark Forest by Dan Robinson, Georgios Konstantopoulos](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest), 08/20
