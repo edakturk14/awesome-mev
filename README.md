@@ -33,4 +33,6 @@ Collection of resources on Maximum Extractable Value (MEV)
 - [Twitter thread on MEV from @bertcmiller](https://twitter.com/bertcmiller/status/1402665992422047747)
 
 ## Other Resources
-- [Flashbots collection of MEV resrources]()
+- [Flashbots collection of MEV resrources](https://github.com/flashbots/mev-research/blob/main/resources.md)
+- [Flashbots Docs](https://docs.flashbots.net/)
+- [Flashbots Forum](https://collective.flashbots.net/)
