@@ -11,9 +11,10 @@ Collection of resources on Maximum Extractable Value (MEV)
 
 ## Articles
 - [Hack Analysis: 0xbaDc0dE MEV Bot, September 2022 on Immunefi Blog](https://medium.com/immunefi/0xbadc0de-mev-bot-hack-analysis-30b9031ff0ba), 01/23
-- [MEV and Me](https://research.paradigm.xyz/MEV), 02/21
-- [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/), 09/20
-- [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest), 08/20
+- [The Hitchhiker's Guide to Ethereum by Jon Charbonneau](https://members.delphidigital.io/reports/the-hitchhikers-guide-to-ethereum#mev-boost), 05/2022
+- [MEV and Me by Charlie Noyes](https://research.paradigm.xyz/MEV), 02/21
+- [Escaping the Dark Forest by samczsun](https://samczsun.com/escaping-the-dark-forest/), 09/20
+- [Ethereum is a Dark Forest by Dan Robinson, Georgios Konstantopoulos](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest), 08/20
 
 ## Podcasts
 - [Interview with a Searcher 2.0 | Dean Eigenman, Anish Agnihotri on Bell Curve](https://open.spotify.com/episode/4UztGP2pazqsP7bLsEO3Br?si=337df0d180df4af2), 04/2023
@@ -23,7 +24,10 @@ Collection of resources on Maximum Extractable Value (MEV)
 - [Understanding MEV - with Georgios Konstantopoulos, Dan Robinson, and Hasu on Uncommon Core](https://podcasters.spotify.com/pod/show/uncommoncore/episodes/Understanding-MEV---with-Georgios-Konstantopoulos--Dan-Robinson--and-Hasu-ejtp3j), 09/20
 
 ## Presentations and Panels
-- [MEVconomics Playlist](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7bW0j2dhpnLNiIJIMnPgsD)
+- [MEVconomics Playlist](https://www.youtube.com/playlist?list=PLXzKMXK2aHh7bW0j2dhpnLNiIJIMnPgsD), 03/2023
+- [So a scammer stole your tokens and is running a sweeper bot on your hacked Ethereum account - Part 1 by Scott Bigelow](https://www.youtube.com/watch?v=KYkyAi9b9r8&t=2s&ab_channel=ScottBigelow), 03/2023
+- [Using Flashbots to Mint NFTs on Ethereum - Part 1 by Scott Bigelow](https://www.youtube.com/watch?v=1ve1YIpDs_I&t=14s&ab_channel=ScottBigelow), 09/2021
+- [How To Get Front-Run on Ethereum mainnet by Scott Bigelow](https://www.youtube.com/watch?v=UZ-NNd6yjFM&ab_channel=ScottBigelow), 06/2020
 
 ## Dashboards
 - [MEV Explore by Flashbots](https://explore.flashbots.net/)
