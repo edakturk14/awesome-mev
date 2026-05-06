@@ -42,6 +42,9 @@ Collection of resources on Maximum Extractable Value (MEV)
 ## Twitter Threads
 - [Twitter thread on MEV from @bertcmiller](https://twitter.com/bertcmiller/status/1402665992422047747)
 
+
+## Infrastructure & Data Feeds
+- [Phoenix Zero](https://rtt.phoenix-ai.work) — Real-time kernel-level eBPF RTT monitoring for Base, Arbitrum, Optimism, ZkSync sequencers. P50/P95/P99 percentiles + stall detection via WebSocket API. Used by MEV searchers to pause strategies during sequencer degradation.
 ## Other Resources
 - [Flashbots collection of MEV resrources](https://github.com/flashbots/mev-research/blob/main/resources.md)
 - [Flashbots Docs](https://docs.flashbots.net/)
