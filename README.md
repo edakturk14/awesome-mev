@@ -38,6 +38,7 @@ Collection of resources on Maximum Extractable Value (MEV)
 ## Repos
 - [Artemis: A framework for writing MEV bots in Rust by Paradigm](https://github.com/paradigmxyz/artemis)
 - [Simple-blind-arbitrage: an open source bot using MEV-Share Matchmakers by Flashbots](https://github.com/flashbots/simple-blind-arbitrage)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Twitter Threads
 - [Twitter thread on MEV from @bertcmiller](https://twitter.com/bertcmiller/status/1402665992422047747)
